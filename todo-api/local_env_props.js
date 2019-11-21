@@ -1,9 +1,9 @@
 // Environment specific configuration injected into the container
 module.exports = {
     postgresHost: 'localhost',
-    postgresPort: 5432,
+    postgresPort: 5433,
     postgresDatabase: 'todo',
-    postgresUser: 'todo',
+    postgresUser: 'tpdp',
     postgresPassword: 'todo1234',
     redisHost: 'localhost',
     redisPort: 6379,
